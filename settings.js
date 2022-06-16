@@ -14,7 +14,7 @@ global.ownerName = 'Mirzz Ganzz'
 global.packname = 'Ichigo Kurosaki'
 global.author = 'Whatsapp Bot 2022'
 global.prefa = ['','!','.','#','!'] //Ilangin Prefix Yang '' Kalau Gamau No Prefix
-global.sessionName = 'sesi'
+global.sessionName = 'session'
 
 //Message Nya Ubah Disini
 global.mess = {
